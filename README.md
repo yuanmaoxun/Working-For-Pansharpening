@@ -98,7 +98,7 @@ Update from [[Lihui-Chen/Awesome-Pansharpening](https://github.com/Lihui-Chen/Aw
 2. Alan R Gillespie, Anne B Kahle, and Richard E Walker. 1987. Color enhancement of highly correlated images. II. Channel ratio and “chromaticity” transformation techniques. *Remote Sensing of Environment* 22, 3 (1987), 343–365.
 3. Craig A Laben and Bernard V Brower. 2000. Process for enhancing the spatial resolution of multispectral imagery using pan-sharpening. US Patent 6,011,875.
 4. Sheida Rahmani, Melissa Strait, Daria Merkurjev, Michael Moeller, and Todd Wittman. 2010. An adaptive IHS pan-sharpening method. *IEEE Geoscience and Remote Sensing Letters* 7, 4 (2010), 746–750
-## Multi Resolution Analysis (MRA)-Based Pansharpening
+# Multi Resolution Analysis (MRA)-Based Pansharpening
 1. Bruno Aiazzi, Luciano Alparone, Stefano Baronti, and Andrea Garzelli. 2002. Context-driven fusion of high spatial and spectral resolution images based on oversampled multiresolution analysis. *IEEE Transactions on geoscience and remote sensing* 40, 10 (2002), 2300–2312
 2. Xavier Otazu, María González-Audícana, Octavi Fors, and Jorge Núñez. 2005. Introduction of sensor spectral response into image fusion methods. Application to wavelet-based methods. *IEEE Transactions on Geoscience and Remote Sensing* 43, 10 (2005), 2376–2385.
 3. Vijay P Shah, Nicolas H Younan, and Roger L King. 2008. An efficient pan-sharpening method via a combined adaptive PCA approach and contourlets. *IEEE transactions on geoscience and remote sensing* 46, 5 (2008), 1323–1335.
