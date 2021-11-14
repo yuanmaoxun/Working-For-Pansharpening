@@ -10,9 +10,6 @@ Update from [[Lihui-Chen/Awesome-Pansharpening](https://github.com/Lihui-Chen/Aw
 5. [MRA-based Methods](#Multi-Resolution-Analysis-(MRA)-Based-Pansharpening)
 6. [MO-based Methods](#Model-Optimization-Based-Pansharpening)
 7. [DL-based Methods](#Deep-Learning-Based-Pansharpening)
-   - [Supervised Methods](##Supervised-Methods)
-   - [Unsupervised Methods](##Unsupervised-Methods)
-
 8. [Challenges](#Challenges-In-Pansharpening)
 
 
