@@ -90,6 +90,8 @@ Update from [[Lihui-Chen/Awesome-Pansharpening](https://github.com/Lihui-Chen/Aw
 
 [24] O. A. Agudelo-Medina, H. D. Benitez-Restrepo, G. Vivone, and A. Bovik, “Perceptual Quality Assessment of Pan-Sharpened Images,” *Remote Sensing*, vol. 11, no. 7, p. 877, Apr. 2019, doi: [10.3390/rs11070877](https://doi.org/10.3390/rs11070877).
 
+[25] G. Scarpa and M. Ciotola, "Full-resolution quality assessment for pansharpening," *Remote Sensing*, vol. 14, p. 1808, doi: [10.3390/rs14081808](https://www.mdpi.com/2072-4292/14/8/1808)
+
 
 
 # Component Substitute (CS)-Based Pansharpening
@@ -167,9 +169,8 @@ Update from [[Lihui-Chen/Awesome-Pansharpening](https://github.com/Lihui-Chen/Aw
 3. Y. Qu, R. K. Baghbaderani, H. Qi, and C. Kwan, “Unsupervised Pansharpening Based on Self-Attention Mechanism,” *IEEE Trans. Geosci. Remote Sensing*, pp. 1–17, 2020, doi: [10.1109/TGRS.2020.3009207](https://doi.org/10.1109/TGRS.2020.3009207).
 4. T. Uezato, D. Hong, N. Yokoya, and W. He, “Guided Deep Decoder: Unsupervised Image Pair Fusion,” in *Computer Vision – ECCV 2020*, vol. 12351, A. Vedaldi, H. Bischof, T. Brox, and J.-M. Frahm, Eds. Cham: Springer International Publishing, 2020, pp. 87–102. doi: [10.1007/978-3-030-58539-6_6](https://doi.org/10.1007/978-3-030-58539-6_6).
 5. C. Zhou, J. Zhang, J. Liu, C. Zhang, R. Fei, and S. Xu, “PercepPan: Towards Unsupervised Pan-Sharpening Based on Perceptual Loss,” p. 22, 2020.
+6. M. Ciotola, S. Vitale, A. Mazza, G. Poggi and G. Scarpa, "Pansharpening by Convolutional Neural Networks in the Full Resolution Framework," in *IEEE Transactions on Geoscience and Remote Sensing*, vol. 60, pp. 1-17, 2022, Art no. 5408717, doi: [10.1109/TGRS.2022.3163887](https://ieeexplore.ieee.org/abstract/document/9745494)
+7. M. Ciotola, G. Poggi and G. Scarpa, "Unsupervised Deep Learning-Based Pansharpening With Jointly Enhanced Spectral and Spatial Fidelity," in *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1-17, 2023, Art no. 5405417, doi: [10.1109/TGRS.2023.3299356](https://ieeexplore.ieee.org/abstract/document/10198408).
 
-
-
-# Challenges In Pansharpening
 
  
